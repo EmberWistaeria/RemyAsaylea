@@ -1,4 +1,5 @@
 - 🌱 Hi, I’m Remy!
+- 📖 I'm a storyteller at heart, looking for new mediums to use!
 - 🎮 I’m trying to get into game development.
 - 🌺 I’m learning how to code and use lots of new software!
 
