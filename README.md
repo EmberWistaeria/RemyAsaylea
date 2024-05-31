@@ -1,7 +1,6 @@
 - 🌱 Hi, I’m Remy!
-- 📖 I'm a storyteller at heart, looking for new mediums to use!
-- 🎮 I’m trying to get into game development.
-- 🌺 I’m learning how to code and use lots of new software!
+- 📖 I'm a storyteller at heart, and I'm branching out more to expand my stories.
+- 🎮 I’m learning a lot about game development. I work in Godot and try to stick to open-source tools like Blender, GIMP, Krita, and so on. Character modeling might become a passion, too...
 
 <!---
 RemyAsaylea/RemyAsaylea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
